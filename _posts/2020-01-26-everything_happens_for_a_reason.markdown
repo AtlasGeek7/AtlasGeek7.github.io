@@ -11,7 +11,7 @@ Think back to the first video game you played. It was probably mesmerizing to th
 
 So, soon after starting the 11th grade, which was a Mathematical Sciences one, I was already coding my first "computer" programs on that precious Casio FC-1000 that my father bought for me. I was able to build a few "apps" and even a few games (Number Puzzle Game, Ping-Pong). I learned the coding language by reading the calculator's manual. That was back when I was still living in Morocco.
 
-[https://drive.google.com/open?id=1rquAYwWtG2BgVjH-WkjalNa9DZ1Guj2f]
+[https://drive.google.com/uc?export=view&id=1rquAYwWtG2BgVjH-WkjalNa9DZ1Guj2f]
 
 Fast-forwarding to the late 2000s, I was able to build a PC application for my brother, who needed some work automation, using my self-taught Visual Basic skills. 
 
