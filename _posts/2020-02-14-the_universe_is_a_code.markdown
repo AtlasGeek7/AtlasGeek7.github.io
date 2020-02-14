@@ -13,9 +13,9 @@ Just think of the similarities between a software programming concept like a cla
 
 ![](https://drive.google.com/uc?export=view&id=1s_PobJXvc88KRps9D5hqT-dWfXe88WB1)
 
-Coding can also teach us how to: <br>
-  • think for ourselves <br>
-  • try many different approaches <br>
+Coding can also teach us how to: 
+  • think for ourselves 
+  • try many different approaches
   • tackle big problems one step at a time
   • co-operate and learn from others
   • embrace failure as a normal result of a complex process like "doing something new"
