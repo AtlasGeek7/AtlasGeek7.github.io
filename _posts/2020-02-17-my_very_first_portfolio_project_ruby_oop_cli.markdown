@@ -17,5 +17,5 @@ The app displays 50 songs of their top-500 list of the greatest songs in history
 Hopefully you find this info about this basic app of mine kind of useful. Thanks for visiting!
 
 Useful links...
-1. Video demo: [here](https://www.youtube.com/watch?v=5zHgXbmLjqw)
-2. Code (Repl) :  [here](https://repl.it/@AtlasGeek7/zikapp)
+1. Demo video : [here](https://www.youtube.com/watch?v=5zHgXbmLjqw)
+2. Code (@Repl)  :  [here](https://repl.it/@AtlasGeek7/zikapp)
