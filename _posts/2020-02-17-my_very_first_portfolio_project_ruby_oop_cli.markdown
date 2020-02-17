@@ -12,6 +12,6 @@ Hello and welcome to Zik App: my first Ruby CLI application. This is also my ver
 
 The app displays 50 songs of their top-500 list of the greatest songs in history. Songs can be displayed in one whole list or searched by title, band, or rank.
 
-[](https://drive.google.com/uc?export=view&id=1q425j6s_bBYuYEyAoVraPbQsXqDThl-C)
+![](https://drive.google.com/uc?export=view&id=1q425j6s_bBYuYEyAoVraPbQsXqDThl-C)
 
 Hopefully you find this info about this basic app of mine kind of useful. Thanks for visiting!
