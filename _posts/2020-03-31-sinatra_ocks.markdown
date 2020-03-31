@@ -22,7 +22,9 @@ My Sinatra App is called PetVet and it's meant for the clients and the employees
 * See all current appointments
 * Use live chat
 
-It's an MVC app that utilizes many different front-end (JS, Ajax, jQuery) and back-end technologies (Ruby/Sinatra) to deliver a rather decent user experience. All those tasks could be performed thanks to Active Record' s CRUD operations. 
 
-To be honest, I am very proud of this milestone accomplishment of mine regardless. And of couse I am looking forward to adding more features to it and enhancing the overall user experience by either using Sinatra or Rails...
+
+It's an MVC app that utilizes many different front-end (JS, Ajax, jQuery) and back-end  (Ruby/Sinatra) technologies to deliver a rather decent user experience. All those tasks could be performed thanks to Active Record' s CRUD operations. 
+
+To be honest, I am very proud of this milestone accomplishment of mine regardless. And of course I am already looking forward to adding more features to it and enhancing the overall user experience by using either Sinatra or Rails...
 
