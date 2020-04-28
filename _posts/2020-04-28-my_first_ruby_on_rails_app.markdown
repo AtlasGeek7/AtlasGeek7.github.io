@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My first Ruby on Rails App"
-date:       2020-04-28 19:30:19 +0000
+date:       2020-04-28 15:30:19 -0400
 permalink:  my_first_ruby_on_rails_app
 ---
 
@@ -21,6 +21,6 @@ By running rails new and bundle install, we already have an application we can r
 
 ![](https://drive.google.com/uc?export=view&id=1G2cnxiJqXQuI_QyfAn_xYag441h7z433)
 
-The output shows that the application is running on port number 3000 at the address 0.0.0.0. This address tells the computer to listen on every available IP address configured on that specific machine; in particular, we can view the application using the special address 127.0.0.1 (localhost).
+The output shows that the application is running on port number 3000. This address tells the computer to listen on every available IP address configured on that specific machine; in particular, we can view the application using the special address 127.0.0.1 (localhost).
 
 That's about it for now... Happy coding !!!
